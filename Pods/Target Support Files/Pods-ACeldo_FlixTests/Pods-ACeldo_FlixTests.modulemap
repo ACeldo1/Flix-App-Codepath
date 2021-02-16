@@ -1,0 +1,6 @@
+framework module Pods_ACeldo_FlixTests {
+  umbrella header "Pods-ACeldo_FlixTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
