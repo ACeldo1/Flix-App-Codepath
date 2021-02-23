@@ -18,7 +18,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="http://g.recordit.co/InjXwvWbDf.gif" width=250><br>
 
 ### Notes
-Under time constraints from other responsibilities. Assignment was vvery straightforward, not many difficulties that I can think of aside from syntax issues. I hope to expand more on future assignments.
+I was under time constraints from other responsibilities. Assignment was very straightforward, not many difficulties that I can think of aside from syntax issues. I hope to expand more on future assignments.
 
 ---
 
